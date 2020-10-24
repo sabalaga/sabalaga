@@ -1,4 +1,10 @@
-### Hi there 👋
+# Bienvenid@s! <img src="https://i.imgur.com/E9EHO5l.gif" width="40px">
+
+
+# 💻 Tecnologías y Herramientas
+
+![](https://img.shields.io/badge/Code-R-informational?style=flat&logo=r&logoColor=white&color=2bbc8a)
+
 
 <!--
 **sabalaga/sabalaga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
