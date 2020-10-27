@@ -28,7 +28,7 @@
 
 
 <!-- links to social media icons -->
-[1.1]: https://raw.githubusercontent.com/sabalaga/sabalaga/master/linkedin-3-16.png
+[1.1]: https://raw.githubusercontent.com/sabalaga/sabalaga/master/Linkedin-3-16.png
 <!-- links to your social media accounts -->
 [1]: https://www.linkedin.com/in/felipelopezsab/
 <!--
