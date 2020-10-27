@@ -1,11 +1,15 @@
 # Bienvenid@s! <img src="https://i.imgur.com/E9EHO5l.gif" width="40px">
 
+Mi nombre es Felipe López S., soy economista de ILADES-Georgetown y estudiante de la maestría en Estadística de la Pontificia Universidad Católica de Chile. 
+
 
 # 💻 Tecnologías y Herramientas
 
 ![](https://img.shields.io/badge/Code-R-informational?style=flat&logo=r&logoColor=white&color=2bbc8a)
-
-
+![](https://img.shields.io/badge/Code-STATA-informational?style=flat&logo=stata&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-LaTeX-informational?style=flat&logo=latex&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Office-informational?style=flat&logo=microsoft&logoColor=white&color=2bbc8a)
 <!--
 **sabalaga/sabalaga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
