@@ -1,5 +1,5 @@
 # Bienvenid@s! <img src="https://i.imgur.com/E9EHO5l.gif" width="40px">
-[![Header](https://raw.githubusercontent.com/sabalaga/sabalaga/master/header.jpg "Header")]
+[![Header](https://raw.githubusercontent.com/sabalaga/sabalaga/main/header.jpg "Header")]
 
 - 🤝🏼 Mi nombre es Felipe López S., soy economista de ILADES-Georgetown y estudiante de la maestría en Estadística de la Pontificia Universidad Católica de Chile.
 - 🔭 Actualmente me encuentro trabajando en la División de Estadísticas Sociales en CEPAL. 
@@ -28,7 +28,7 @@
 
 
 <!-- links to social media icons -->
-[1.1]: https://raw.githubusercontent.com/sabalaga/sabalaga/master/Linkedin-3-16.png
+[1.1]: https://raw.githubusercontent.com/sabalaga/sabalaga/main/linkedin-3-16.png
 <!-- links to your social media accounts -->
 [1]: https://www.linkedin.com/in/felipelopezsab/
 <!--
