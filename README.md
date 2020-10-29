@@ -1,5 +1,7 @@
 # Bienvenid@s! <img src="https://i.imgur.com/E9EHO5l.gif" width="40px">
 
+*"Le seul véritable voyage, le seul bain de Jouvence, ce ne serait pas d'aller vers de nouveaux paysages, mais d'avoir d'autres yeux, de voir l'univers avec les yeux d'un autre..."*
+
 
 - 🤝🏼 Mi nombre es Felipe López S., soy economista de ILADES-Georgetown y estudiante de la maestría en Estadística de la Pontificia Universidad Católica de Chile.
 - 🔭 Actualmente me encuentro trabajando en la División de Estadísticas Sociales en CEPAL. 
