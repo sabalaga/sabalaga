@@ -1,10 +1,10 @@
 # Bienvenid@s! <img src="https://i.imgur.com/E9EHO5l.gif" width="40px">
 
-*"Le seul véritable voyage, le seul bain de Jouvence, ce ne serait pas d'aller vers de nouveaux paysages, mais d'avoir d'autres yeux, de voir l'univers avec les yeux d'un autre..."*
+*"Ce que nous connaissons est peu de chose, ce que nous ignorons est immense. Pierre-Simon Laplace*
 
 
 - 🤝🏼 Mi nombre es Felipe López S., soy economista de ILADES-Georgetown y estudiante de la maestría en Estadística de la Pontificia Universidad Católica de Chile.
-- 🔭 Actualmente me encuentro trabajando en la División de Estadísticas Sociales en CEPAL. 
+- 🔭 Actualmente me encuentro trabajando en el Subdepartamento de Estadísticas Sociales del INE Chile, anteriormente trabajé en la División de Estadísticas Sociales en CEPAL. 
 - 🌱 Estoy aprendiendo sobre estadística, programación, software colaborativo y algo de ciencia de datos. 
 - 📫 Puedes encontrarme en [![LinkedIn][1.1]][1].
 - 📰 Blog en desarrollo: [Blog](https://sabalaga.github.io/blog/).
